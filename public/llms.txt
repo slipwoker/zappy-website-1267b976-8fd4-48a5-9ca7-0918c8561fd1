@@ -1,0 +1,83 @@
+# איתמר בן דוד — Generative Engine Optimization Map
+
+> A 13-year-old entrepreneur named Itamar Ben David based in Moshav Rintia, offering three local personal services: babysitting, outdoor car washing, and dog sitting. Services are available between 2 PM and midnight. The brand has a youthful, neighborhood-friendly vibe targeting local families and residents.
+
+---
+
+## Pages
+
+### בית
+https://-1267b976.zappy5.app
+מחפשים בייביסיטר אמין, דוגיסיטר אוהב או שטיפת רכב יסודית ברינתיה? איתמר בן דוד, בן 13 עם אחריות של גדולים, זמין עבורכם מדי יום בין 14:00 לחצות. תנו לילדים ולכלבים שלכם את הטיפול השכונתי הכי חם!
+
+### שירותים
+https://-1267b976.zappy5.app/services
+שמרטפות מפנקת, דוגיסיטר מסור ושטיפת רכב חיצונית מבריקה – הכל במקום אחד! איתמר בן דוד מציע שירות אישי ואיכותי ברינתיה משעות הצהריים ועד חצות. בואו לגלות איך החיים במושב נהיים קלים יותר.
+
+### אודות
+https://-1267b976.zappy5.app/about
+איתמר בן דוד, בן 13 מרינתיה, מביא אנרגיה צעירה ואמינות לכל משימה: מבייביסיטר לילדים ועד דוגיסיטר לכלבים. הסיפור מאחורי הילד השכונתי שכל ההורים סומכים עליו – היכנסו להכיר מקרוב!
+
+### צור קשר
+https://-1267b976.zappy5.app/contact
+מוכנים לשמרטף, דוגיסיטר או שטיפת רכב ברינתיה? צרו קשר עם איתמר בן דוד עוד היום והבטיחו את השירות המושלם בין 14:00 לחצות. אנחנו כאן כדי להפוך את היום-יום שלכם לנוח ומחויך יותר!
+
+### תודה על פנייתך
+https://-1267b976.zappy5.app/thank-you
+איתמר בן דוד - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1267b976.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1267b976.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1267b976.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-1267b976.zappy5.app/contact
+- Endpoint: https://-1267b976.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About איתמר בן דוד
+A 13-year-old entrepreneur named Itamar Ben David based in Moshav Rintia, offering three local personal services: babysitting, outdoor car washing, and dog sitting. Services are available between 2 PM and midnight. The brand has a youthful, neighborhood-friendly vibe targeting local families and residents.
+
+## Target Audience
+- תושבי מושב רינתיה
+- בעלי כלבים במושב רינתיה
+- הורים עם ילדים
+- אנשים עם רכבים
+
+## Industry
+Personal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1267b976.zappy5.app/sitemap.xml
+- Robots: https://-1267b976.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1267b976.zappy5.app/llms-full.txt
