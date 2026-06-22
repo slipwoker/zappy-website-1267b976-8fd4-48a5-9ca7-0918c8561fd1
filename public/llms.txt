@@ -47,7 +47,7 @@ Information about WCAG compliance and accessibility features.
 - Email: itamar20082013@gmail.com
 - Phone: 0524080595
 - Phone (tel): tel:0524080595
-- Address: הרימונים 56, רינתיה, IL
+- Address: הרימונים 56, רינתיה, מרכז, 7316500, IL
 
 ### Contact form
 - URL: https://itamar-ben-david.zappy5.app/contact
