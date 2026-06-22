@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-1267b976.zappy5.app
+https://example.com
 מחפשים בייביסיטר אמין, דוגיסיטר אוהב או שטיפת רכב יסודית ברינתיה? איתמר בן דוד, בן 13 עם אחריות של גדולים, זמין עבורכם מדי יום בין 14:00 לחצות. תנו לילדים ולכלבים שלכם את הטיפול השכונתי הכי חם!
 
 ### שירותים
-https://-1267b976.zappy5.app/services
+https://example.com/services
 שמרטפות מפנקת, דוגיסיטר מסור ושטיפת רכב חיצונית מבריקה – הכל במקום אחד! איתמר בן דוד מציע שירות אישי ואיכותי ברינתיה משעות הצהריים ועד חצות. בואו לגלות איך החיים במושב נהיים קלים יותר.
 
 ### אודות
-https://-1267b976.zappy5.app/about
+https://example.com/about
 איתמר בן דוד, בן 13 מרינתיה, מביא אנרגיה צעירה ואמינות לכל משימה: מבייביסיטר לילדים ועד דוגיסיטר לכלבים. הסיפור מאחורי הילד השכונתי שכל ההורים סומכים עליו – היכנסו להכיר מקרוב!
 
 ### צור קשר
-https://-1267b976.zappy5.app/contact
+https://example.com/contact
 מוכנים לשמרטף, דוגיסיטר או שטיפת רכב ברינתיה? צרו קשר עם איתמר בן דוד עוד היום והבטיחו את השירות המושלם בין 14:00 לחצות. אנחנו כאן כדי להפוך את היום-יום שלכם לנוח ומחויך יותר!
 
 ### תודה על פנייתך
-https://-1267b976.zappy5.app/thank-you
+https://example.com/thank-you
 איתמר בן דוד - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1267b976.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1267b976.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1267b976.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-1267b976.zappy5.app/contact
-- Endpoint: https://-1267b976.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Personal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-1267b976.zappy5.app/sitemap.xml
-- Robots: https://-1267b976.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-1267b976.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
